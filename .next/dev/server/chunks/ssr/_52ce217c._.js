@@ -105,7 +105,7 @@ const mockComics = [
         id: "3",
         title: "Spider-Man",
         author: "Stan Lee",
-        cover: "/comic-cover-spiderman.jpg"
+        cover: "/396px-Spider-Man50.jpg"
     },
     {
         id: "4",

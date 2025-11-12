@@ -6,7 +6,12 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "eslint .",
-    "start": "next start"
+    "start": "next start",
+    "test": "npx playwright test",
+  "test:report": "npx playwright show-report",
+  "test:headed": "npx playwright test --headed",
+  "codegen": "npx playwright codegen"
+    
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -60,6 +65,7 @@
     "zod": "3.25.76"
   },
   "devDependencies": {
+    "@playwright/test": "^1.56.1",
     "@tailwindcss/postcss": "^4.1.9",
     "@types/node": "^22",
     "@types/react": "^19",

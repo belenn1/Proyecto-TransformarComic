@@ -7,7 +7,7 @@ import ComicCard from "@/components/comic-card"
 const mockComics = [
   { id: "1", title: "El Eternauta", author: "Oesterheld", cover: "/comic-cover-el-eternauta.jpg" },
   { id: "2", title: "Superman", author: "Autor", cover: "/comic-cover-superman.jpg" },
-  { id: "3", title: "Spider-Man", author: "Stan Lee", cover: "/comic-cover-spiderman.jpg" },
+  { id: "3", title: "Spider-Man", author: "Stan Lee", cover: "/396px-Spider-Man50.jpg" },
   { id: "4", title: "Batman", author: "DC Comics", cover: "/batman-comic-cover.png" },
 ]
 
