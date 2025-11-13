@@ -8,10 +8,9 @@
     "lint": "eslint .",
     "start": "next start",
     "test": "npx playwright test",
-  "test:report": "npx playwright show-report",
-  "test:headed": "npx playwright test --headed",
-  "codegen": "npx playwright codegen"
-    
+    "test:report": "npx playwright show-report",
+    "test:headed": "npx playwright test --headed",
+    "codegen": "npx playwright codegen"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
