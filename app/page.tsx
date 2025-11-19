@@ -1,35 +1,52 @@
-"use client"
+'use client';
 
-import { useState } from "react"
-import HomePage from "@/components/pages/home-page"
-import ReaderPage from "@/components/pages/reader-page"
-import CreatorPage from "@/components/pages/creator-page"
+import { useState, useEffect } from 'react';
+import { BookOpen } from 'lucide-react';
+import ComicBrowser from '@/components/comic-browser';
+import ComicReader from '@/components/comic-reader';
+import CreatorDashboard from '@/components/creator-dashboard';
+import { initializeDefaultComics } from '@/lib/storage';
 
-type PageView = "home" | "reader" | "creator"
+export default function Home() {
+  const [view, setView] = useState<'browser' | 'reader' | 'creator'>('browser');
+  const [selectedComic, setSelectedComic] = useState<any>(null);
 
-export default function Page() {
-  const [currentPage, setCurrentPage] = useState<PageView>("home")
-  const [selectedComicId, setSelectedComicId] = useState<string | null>(null)
+  useEffect(() => {
+    initializeDefaultComics();
+  }, []);
 
-  const handleComicSelect = (comicId: string) => {
-    setSelectedComicId(comicId)
-    setCurrentPage("reader")
-  }
+  const handleSelectComic = (comic: any) => {
+    setSelectedComic(comic);
+    setView('reader');
+  };
 
-  const handleBackHome = () => {
-    setCurrentPage("home")
-    setSelectedComicId(null)
-  }
+  const handleBack = () => {
+    setView('browser');
+    setSelectedComic(null);
+  };
 
-  const handleGoToCreator = () => {
-    setCurrentPage("creator")
-  }
+  const handleCreatorClick = () => {
+    setView('creator');
+  };
+
+  const handleBackToHome = () => {
+    setView('browser');
+  };
 
   return (
-    <main className="bg-background min-h-screen text-foreground">
-      {currentPage === "home" && <HomePage onComicSelect={handleComicSelect} onCreatorClick={handleGoToCreator} />}
-      {currentPage === "reader" && selectedComicId && <ReaderPage comicId={selectedComicId} onBack={handleBackHome} />}
-      {currentPage === "creator" && <CreatorPage onBack={handleBackHome} onComicSelect={handleComicSelect} />}
-    </main>
-  )
+    <div className="min-h-screen bg-gradient-to-b from-purple-900 via-black to-black">
+      {view === 'browser' && (
+        <ComicBrowser 
+          onSelectComic={handleSelectComic}
+          onCreatorClick={handleCreatorClick}
+        />
+      )}
+      {view === 'reader' && selectedComic && (
+        <ComicReader comic={selectedComic} onBack={handleBack} />
+      )}
+      {view === 'creator' && (
+        <CreatorDashboard onBack={handleBackToHome} />
+      )}
+    </div>
+  );
 }
