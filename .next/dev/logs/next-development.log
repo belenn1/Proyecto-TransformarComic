@@ -1,92 +1,1138 @@
-[00:00:01.033] Server  LOG      ✓ Ready in 636ms
-[00:00:13.066] Server  LOG      ○ Compiling / ...
-[00:00:15.802] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+[00:00:01.023] Server  LOG      ✓ Ready in 653ms
+[00:00:14.114] Server  LOG      ○ Compiling / ...
+[00:00:16.004] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:16.569] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:17.244] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:17.244] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:17.244] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763584712870}
-[00:00:21.374] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:17.000] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:17.280] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:17.280] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:17.280] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764091454500}
+[00:00:22.627] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:21.429] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:22.664] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:21.597] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:22.700] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:21.650] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:22.740] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:25.615] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:26.119] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:25.708] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:26.213] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:25.761] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:26.247] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:29.983] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:29.889] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:30.070] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:30.010] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:31.851] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:30.088] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:31.979] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:30.135] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:32.080] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:30.244] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:32.160] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:32.712] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:32.300] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:34.925] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:46.405] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:34.993] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:46.525] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.017] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:46.663] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.042] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:46.783] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.141] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:46.837] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.232] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:46.925] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.289] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.039] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.375] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.074] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.464] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.267] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.569] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.320] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.614] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.375] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.771] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.462] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.839] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.638] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:35.915] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:47.775] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:36.063] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:09.943] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:36.135] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.045] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:53.463] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.147] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:53.594] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.192] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:53.643] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.235] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:53.691] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.289] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:53.761] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.346] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:53.851] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.462] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:53.881] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.565] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:54.027] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.620] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:54.070] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.663] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:54.124] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.723] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:54.174] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.803] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:54.273] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:10.924] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+[00:00:54.310] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:08.483] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:08.576] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:08.636] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:08.688] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:08.989] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.082] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.128] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.181] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.239] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.335] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.389] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.431] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:09.481] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:15.183] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:15.906] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:15.990] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:16.043] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:16.101] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:16.638] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:16.732] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:16.829] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:16.885] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:16.968] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:17.020] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:17.069] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:17.128] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:17.151] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:01:17.212] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:32.207] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:14:1
+Error parsing package.json file
+  12 |      "test:headed": "npx playwright test --headed",
+  13 |      "codegen": "npx playwright codegen",
+> 14 | }
+     | ^
+  15 |   },
+  16 |   "dependencies": {
+  17 |     "@hookform/resolvers": "^3.10.0",
+
+package.json is not parseable: invalid JSON: trailing comma at line 14 column 1
+
+
+[00:06:33.116] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:14:1
+Error parsing package.json file
+  12 |      "test:headed": "npx playwright test --headed",
+  13 |      "codegen": "npx playwright codegen",
+> 14 | }
+     | ^
+  15 |   },
+  16 |   "dependencies": {
+  17 |     "@hookform/resolvers": "^3.10.0",
+
+package.json is not parseable: invalid JSON: trailing comma at line 14 column 1
+[00:06:33.402] Server  LOG      ✓ Compiled in 1152ms
+[00:06:35.086] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.148] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.197] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.251] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.296] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.350] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.403] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.451] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.497] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:35.573] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.135] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:36.418] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.464] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.499] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.535] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.569] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.709] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.822] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.869] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.912] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:36.957] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:37.056] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:37.122] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:06:37.144] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:06:37.144] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:06:37.144] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764091833771}
+[00:07:13.259] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+
+
+[00:07:13.313] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+
+
+[00:07:13.355] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+
+
+[00:07:13.394] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+
+
+[00:07:13.443] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+
+
+[00:07:15.798] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+[00:07:15.798] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+[00:07:15.798] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+[00:07:15.798] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+[00:07:15.798] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+[00:07:15.798] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+[00:07:15.798] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+
+
+[00:07:15.798] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:16:3
+Error parsing package.json file
+  14 | }
+  15 |   
+> 16 |   "dependencies": {
+     |   ^
+  17 |     "@hookform/resolvers": "^3.10.0",
+  18 |     "@radix-ui/react-accordion": "1.2.2",
+  19 |     "@radix-ui/react-alert-dialog": "1.1.4",
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 16 column 3
+[00:07:16.086] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:18.505] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:18.505] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:18.505] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:18.505] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:18.505] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:18.506] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:18.506] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:18.506] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:18.506] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:24.447] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:26.617] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:26.617] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:26.617] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:26.617] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:26.617] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:26.617] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:26.617] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:26.617] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:26.680] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:29.145] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:29.145] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:29.145] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:29.145] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:29.145] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:29.145] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:29.145] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:30.701] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:33.303] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:33.303] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:33.303] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:33.303] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:33.303] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:33.303] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:07:33.303] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:07:40.296] Server  LOG      ✓ Compiled in 60ms
+[00:07:42.636] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:11:52.080] Server  ERROR    ⨯ ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:11:54.541] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:11:54.541] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:11:54.541] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:11:54.541] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:11:54.541] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:11:54.541] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:11:54.541] Browser ERROR   ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+[00:11:54.541] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:13:25.914] Server  LOG      ✓ Compiled in 120ms
+[00:13:28.273] Browser ERROR   uncaughtError: Error: ./Documentos/Proyecto-TransformarComic/package.json:67:3
+Error parsing package.json file
+  65 |     "zod": "3.25.76"
+  66 |   },
+> 67 |   {
+     |   ^
+  68 |   "devDependencies": {
+  69 |     "@playwright/test": "^1.57.0",
+  70 |     "@tailwindcss/postcss": "^4.1.9",
+
+package.json is not parseable: invalid JSON: key must be a string at line 67 column 3
+
+
+[00:15:52.514] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:53.198] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.267] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.381] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.444] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.447] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:15:53.447] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:15:53.447] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764092390552}
+[00:15:53.495] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.555] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.616] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.685] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.848] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.908] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:53.960] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:54.024] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:54.081] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:15:54.146] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:20.652] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:21.155] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:21.368] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/Documento...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="es">
+                          <body
+                            className="font-sans antialiased dark"
+-                           data-pw-cursor="pointer"
+                          >
+                  ...
+
+[00:16:21.581] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:16:21.582] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:16:21.582] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764092418802}
+[00:16:30.024] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:30.045] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:30.109] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:37.379] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.315] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.355] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.377] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.399] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.419] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.545] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.693] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.745] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.803] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.887] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.944] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:42.994] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:46.266] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:50.944] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:50.982] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.003] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.027] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.054] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.131] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.240] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.279] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.321] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.383] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.481] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:51.527] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:16:54.532] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.090] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.141] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.167] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.191] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.216] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.336] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.471] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.528] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.702] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.783] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.884] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:00.951] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:02.968] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:07.860] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:07.896] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:07.917] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:07.937] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:07.957] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:08.045] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:08.229] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:08.249] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:08.301] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:08.343] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:08.403] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:08.454] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:25.008] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:25.071] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:28.646] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:29.173] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:29.336] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:29.539] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:29.731] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:29.899] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.308] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.407] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.535] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.599] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.690] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.775] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.845] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:31.897] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:32.016] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:32.084] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:32.148] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:32.272] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:32.456] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+[00:17:32.518] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /_not-found. Please move it to viewport export instead.
 Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
