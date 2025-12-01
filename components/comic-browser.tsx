@@ -1,6 +1,7 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useEffect, useState, useMemo } from 'react';
+import pb from '@/lib/pb';
 import { Search, Grid, Plus, Loader } from 'lucide-react';
 import ComicCard from './comic-card';
 import GenreFilter from './genre-filter';
@@ -20,21 +21,43 @@ export default function ComicBrowser({
   const [comics, setComics] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  useEffect(() => {
-    setIsLoading(true);
-    const publishedComics = getPublishedComics(selectedGenre);
-    setComics(publishedComics);
-    setIsLoading(false);
-  }, [selectedGenre]);
+ useEffect(() => {
+  async function fetchComics() {
+    try {
+      setIsLoading(true);
+      // Aquí estamos usando la colección "comics" en PocketBase
+      const records = await pb.collection('comics').getFullList({
+        filter: selectedGenre === 'All' ? '' : `genre = "${selectedGenre}"`,
+        sort: '-created', // Si deseas ordenar por fecha de creación, por ejemplo
+      });
+
+      setComics(records);
+    } catch (error) {
+      console.error('Error al obtener cómics:', error);
+    } finally {
+      setIsLoading(false);
+    }
+  }
+
+  fetchComics();
+}, [selectedGenre]);
 
   const filteredComics = useMemo(() => {
-    return searchComics(searchQuery, selectedGenre);
-  }, [searchQuery, selectedGenre]);
+  return comics.filter(c => {
+    const matchesSearch =
+      c.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      c.author?.toLowerCase().includes(searchQuery.toLowerCase());
 
+    const matchesGenre =
+      selectedGenre === "All" || c.genre === selectedGenre;
+
+    return matchesSearch && matchesGenre;
+  });
+}, [searchQuery, selectedGenre, comics]);
   return (
     <div className="min-h-screen pb-20">
       {/* Header */}
-      <div className="sticky top-0 z-40 bg-gradient-to-b from-purple-900 to-black border-b border-purple-500/20">
+      <div className="sticky top-0 z-40 bg-linear-to-b from-purple-900 to-black border-b border-purple-500/20">
         <div className="p-4 max-w-6xl mx-auto">
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center gap-2">
