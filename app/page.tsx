@@ -34,11 +34,12 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-purple-900 via-black to-black">
+    <div className="min-h-screen bg-linear-to-b from-purple-900 via-black to-black">
       {view === 'browser' && (
         <ComicBrowser 
           onSelectComic={handleSelectComic}
           onCreatorClick={handleCreatorClick}
+
         />
       )}
       {view === 'reader' && selectedComic && (
