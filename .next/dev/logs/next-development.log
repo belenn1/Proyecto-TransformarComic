@@ -1,120 +1,1453 @@
-[00:00:01.554] Server  LOG      ✓ Ready in 1049ms
-[00:00:04.777] Server  LOG      ○ Compiling / ...
-[00:00:09.114] Server  ERROR    ⨯ Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:00:09.127] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:09.362] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:00:09.999] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.999] Browser ERROR   uncaughtError: Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:01:07.693] Server  ERROR    ⨯ Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:01:07.700] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:07.951] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:08.517] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:08.517] Browser ERROR   uncaughtError: Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:01:32.474] Server  ERROR    ⨯ Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:01:32.482] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:32.561] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:33.449] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:33.450] Browser ERROR   uncaughtError: Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:01:34.177] Server  LOG      ✓ Compiled in 453ms
-[00:01:35.050] Server  ERROR    ⨯ Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:01:35.084] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:35.186] Server  WARN     ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
-Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
-[00:01:36.194] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:36.194] Browser ERROR   uncaughtError: Error: Only plain objects, and a few built-ins, can be passed to Client Components from Server Components. Classes or null prototypes are not supported.
-  <... client={{}} children={{...}}>
-              ^^^^
-[00:01:37.376] Browser ERROR   ./Proyecto-TransformarComic/app/layout.tsx:1:5
+[00:00:02.851] Server  LOG      ✓ Ready in 1937ms
+[00:00:13.705] Server  LOG      ○ Compiling / ...
+[00:00:21.304] Server  WARN     ⚠ Cross origin request detected from 10.56.2.41 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:21.325] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:21.325] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:21.325] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:21.325] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.56.2.41:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.56.2.41:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764712171247}
+[00:00:21.325] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:00:21.325] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:00:21.326] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:00:21.326] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:00:21.326] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:00:21.326] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:00:21.326] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:00:21.326] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:00:21.326] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:00:21.326] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:00:21.326] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:00:21.326] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:00:21.326] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:00:21.326] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:00:21.326] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:00:21.326] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:00:21.326] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:00:21.326] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:00:21.326] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:00:21.326] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:00:21.326] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:00:21.326] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:02:56.716] Server  LOG      ✓ Compiled in 250ms
+[00:02:57.736] Server  LOG      ✓ Compiled in 161ms
+[00:02:58.829] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:02:58.829] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:02:58.829] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:02:58.829] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:02:58.829] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:02:58.829] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:02:58.829] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:02:58.829] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:02:58.829] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:02:58.829] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:02:58.829] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:02:58.829] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:02:58.829] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:02:58.829] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:02:58.829] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:02:58.829] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:02:58.829] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:02:58.829] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:02:58.829] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:02:58.829] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:02:58.829] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:02:58.829] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:02:58.829] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:02:58.829] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:02:58.829] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:02:58.829] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:02:58.829] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:02:58.829] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:02:58.829] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:02:58.829] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:02:58.829] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:02:58.829] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx:98:35
 Parsing ecmascript source code failed
-> 1 | use client
-    |     ^^^^^^
-  2 |
-  3 | import type { Metadata } from 'next'
-  4 | import { Geist, Geist_Mono } from 'next/font/google'
+   96 |                 }}
+   97 |
+>  98 |                 const ComicCard = ({ comic }) => {
+      |                                   ^
+   99 |   return (
+  100 |     <div className="comic-card">
+  101 |       <img src={comic.cover} alt={comic.title} className="comic-cover" />
 
-Expected ';', '}' or <eof>
-[00:01:40.480] Browser ERROR   ./Proyecto-TransformarComic/app/layout.tsx:1:1
+Expected '</', got '('
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:03:00.472] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:03:00.472] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:03:00.472] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:03:00.472] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:03:00.472] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:03:00.472] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:03:00.472] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:03:00.472] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:03:00.472] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:03:00.472] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:03:00.472] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:03:00.472] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:03:00.472] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:03:00.472] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:03:00.472] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:03:00.472] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:03:00.472] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:03:00.472] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:03:00.472] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:03:00.472] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:03:00.472] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:03:00.472] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:03:00.472] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:03:00.472] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:03:00.473] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:03:00.473] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:03:00.473] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:03:00.473] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:03:00.473] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:03:00.473] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:03:00.473] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:03:00.473] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:03:00.473] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:03:00.473] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:03:00.473] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:03:00.473] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:03:00.473] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:03:00.473] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:03:00.473] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:03:00.473] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:03:00.473] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:03:00.473] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:03:00.473] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:03:00.473] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:03:00.473] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:03:00.473] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:03:00.473] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:03:00.473] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:03:00.473] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:03:00.473] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:03:00.473] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:03:00.473] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:03:00.473] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:03:00.473] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:03:00.473] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:03:00.473] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:03:00.473] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:03:00.473] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:03:00.473] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:08:56.245] Server  LOG      ✓ Compiled in 101ms
+[00:08:57.114] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx:29:22
 Parsing ecmascript source code failed
-> 1 | "use client
-    | ^^^^^^^^^^^
-  2 |
-  3 | import type { Metadata } from 'next'
-  4 | import { Geist, Geist_Mono } from 'next/font/google'
+  27 |       <div className="relative w-full aspect-[3/4] bg-gradient-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
+  28 |         <img
+> 29 |           src={chttps://www.cuartomundo.cl/2016/12/13/entrevista-a-francisco-ortega-autor-de-mocha-dick-es-una-historia-nuestra-un-relato-que-nos-fue-arrebatado/el-eternauta-tomo-2-000-a-portada/ || `/placeholder.svg?height=400&width=300&query=${comic.title}+cover`}
+     |                      ^
+  30 |           alt={comic.title}
+  31 |           className="w-full h-full object-cover group-hover:scale-110 transition"
+  32 |         />
+
+Expected '</', got ':'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:08:59.610] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:08:59.610] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:08:59.610] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:08:59.610] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:08:59.610] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:08:59.610] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:08:59.610] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:08:59.610] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:08:59.610] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:08:59.610] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:08:59.610] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:08:59.610] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:08:59.610] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:08:59.610] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:08:59.611] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:08:59.611] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:08:59.611] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:08:59.611] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:08:59.611] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:08:59.611] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:08:59.611] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:08:59.611] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:08:59.611] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:08:59.611] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:08:59.611] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:08:59.611] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:08:59.611] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:08:59.611] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:08:59.611] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:08:59.611] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:08:59.611] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:08:59.611] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:08:59.611] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:08:59.611] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:08:59.611] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:08:59.611] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:08:59.611] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:08:59.611] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:08:59.611] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:08:59.611] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:08:59.611] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:08:59.611] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:08:59.611] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:08:59.611] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:04.054] Server  LOG      ✓ Compiled in 97ms
+[00:11:05.045] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:05.045] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:05.045] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:05.045] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:05.045] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:05.045] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:05.045] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:05.045] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:05.045] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:05.045] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:05.045] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:05.045] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:05.045] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:05.045] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:05.045] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:05.045] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:05.045] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:05.045] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:05.045] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:05.045] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:05.045] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:05.046] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:07.812] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:07.812] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:07.812] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:07.812] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:07.812] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:07.812] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:07.812] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:07.812] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:07.812] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:07.812] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:07.813] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:07.813] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:07.813] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:07.813] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:07.813] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:07.813] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:07.813] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:07.813] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:07.813] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:07.813] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:07.813] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:07.813] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:10.333] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:10.579] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:11:10.579] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:11:10.579] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.56.2.41:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.56.2.41:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764712823970}
+[00:11:10.580] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:10.580] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:10.580] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:10.580] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:10.580] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:10.580] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:10.580] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:10.580] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:10.580] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:10.580] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:10.580] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:10.580] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:10.580] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:10.580] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:10.580] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:10.580] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:10.580] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:10.580] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:10.580] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:10.580] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:10.580] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:10.580] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:21.658] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:21.658] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:21.658] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:21.658] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:21.658] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:21.658] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:21.658] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:21.658] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:21.658] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:21.658] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:21.658] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:21.658] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:21.658] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:21.658] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:21.658] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:21.658] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:21.658] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:21.658] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:21.658] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:21.658] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:21.658] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:21.658] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:29.020] Server  LOG      ✓ Compiled in 212ms
+[00:11:30.016] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:30.016] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:11:30.017] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:30.017] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:11:30.017] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:30.017] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:11:30.017] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:30.017] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:11:30.017] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:30.017] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:11:30.017] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:30.017] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:11:30.017] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:30.017] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:11:30.017] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:30.017] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:11:30.017] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:30.017] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:11:30.017] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:30.017] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:11:30.017] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:11:30.017] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:28.313] Server  LOG      ✓ Compiled in 126ms
+[00:12:29.461] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:29.461] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:29.461] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:29.461] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:29.461] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:29.461] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:29.461] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:29.461] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:29.461] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:29.461] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:29.461] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:29.461] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:29.461] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:29.461] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:29.461] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:29.461] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:29.461] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:29.461] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:29.461] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:29.461] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:29.461] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:29.461] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:29.758] Server  LOG      ✓ Compiled in 12ms
+[00:12:30.582] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:30.582] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:30.582] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:30.582] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:30.582] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:30.582] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:30.582] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:30.582] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:30.582] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:30.582] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:30.582] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:30.582] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:30.582] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:30.582] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:30.582] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:30.582] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:30.582] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:30.582] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:30.582] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:30.582] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:30.582] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:30.582] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:34.764] Server  LOG      ✓ Compiled in 99ms
+[00:12:35.758] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:35.758] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:35.758] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:35.758] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:35.758] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:35.758] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:35.758] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:35.758] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:35.758] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:35.758] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:35.758] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:35.758] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:35.758] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:35.758] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:35.759] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:35.759] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:35.759] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:35.759] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:35.759] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:35.759] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:35.759] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:35.759] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:38.913] Server  LOG      ✓ Compiled in 127ms
+[00:12:39.898] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:39.898] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:39.898] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:39.898] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:39.899] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:39.899] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:39.899] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:39.899] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:39.899] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:39.899] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:39.899] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:39.899] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:39.899] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:39.899] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:39.899] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:39.899] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:39.899] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:39.899] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:39.899] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:39.899] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:39.899] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:39.899] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:40.620] Server  LOG      ✓ Compiled in 173ms
+[00:12:41.612] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:41.612] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:41.612] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:41.612] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:41.612] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:41.612] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:41.612] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:41.612] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:41.612] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:41.612] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:41.612] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:41.612] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:41.612] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:41.612] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:41.612] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:41.612] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:41.612] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:41.612] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:41.612] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:41.612] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:41.612] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:41.612] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:44.670] Server  LOG      ✓ Compiled in 105ms
+[00:12:45.659] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:45.659] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:45.659] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:45.659] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:45.659] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:45.659] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:45.659] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:45.659] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:45.659] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:45.659] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:45.659] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:45.659] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:45.659] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:45.659] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:45.659] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:45.659] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:45.659] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:45.659] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:45.659] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:45.659] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:45.659] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:45.659] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:46.731] Server  LOG      ✓ Compiled in 108ms
+[00:12:47.720] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:47.720] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:47.720] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:47.721] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:47.721] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:47.721] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:47.721] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:47.721] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:47.721] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:47.721] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:47.721] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:47.721] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:47.721] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:47.721] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:47.721] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:47.721] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:47.721] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:47.721] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:47.721] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:47.721] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:47.721] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:47.721] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:48.539] Server  LOG      ✓ Compiled in 141ms
+[00:12:49.510] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:49.510] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:49.511] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:49.511] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:49.511] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:49.511] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:49.511] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:49.511] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:49.511] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:49.511] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:49.511] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:49.511] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:49.511] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:49.511] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:49.511] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:49.511] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:49.511] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:49.511] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:49.511] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:49.511] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:49.511] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:49.511] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:51.995] Server  LOG      ✓ Compiled in 101ms
+[00:12:52.985] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:52.986] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:12:52.986] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:52.986] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:12:52.986] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:52.986] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:12:52.986] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:52.986] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:12:52.986] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:52.986] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:12:52.986] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:52.986] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:12:52.986] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:52.986] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:12:52.986] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:52.986] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:12:52.986] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:52.986] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:12:52.986] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:52.986] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:12:52.986] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:52.986] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:12:58.244] Server  LOG      ✓ Compiled in 76ms
+[00:12:59.139] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx:29:60
+Parsing ecmascript source code failed
+  27 |       <div className="relative w-full aspect-[3/4] bg-gradient-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
+  28 |         <img
+> 29 |           src={comic.cover || `OIP-1901228439.jpeg=${comic.}+cover`}
+     |                                                            ^
+  30 |           alt={comic.title}
+  31 |           className="w-full h-full object-cover group-hover:scale-110 transition"
+  32 |         />
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:13:00.707] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx:29:60
+Parsing ecmascript source code failed
+  27 |       <div className="relative w-full aspect-[3/4] bg-gradient-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
+  28 |         <img
+> 29 |           src={comic.cover || `OIP-1901228439.jpeg=${comic.}+cover`}
+     |                                                            ^
+  30 |           alt={comic.title}
+  31 |           className="w-full h-full object-cover group-hover:scale-110 transition"
+  32 |         />
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:13:05.702] Server  LOG      ✓ Compiled in 82ms
+[00:13:06.587] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx:29:57
+Parsing ecmascript source code failed
+  27 |       <div className="relative w-full aspect-[3/4] bg-gradient-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
+  28 |         <img
+> 29 |           src={comic.cover || `OIP-1901228439.jpeg=${el eternauta}+cover`}
+     |                                                         ^^^^^^^^^
+  30 |           alt={comic.title}
+  31 |           className="w-full h-full object-cover group-hover:scale-110 transition"
+  32 |         />
+
+Expected '</', got 'eternauta'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:13:10.908] Server  LOG      ✓ Compiled in 149ms
+[00:13:11.725] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx:29:60
+Parsing ecmascript source code failed
+  27 |       <div className="relative w-full aspect-[3/4] bg-gradient-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
+  28 |         <img
+> 29 |           src={comic.cover || `OIP-1901228439.jpeg=${comic.}+cover`}
+     |                                                            ^
+  30 |           alt={comic.title}
+  31 |           className="w-full h-full object-cover group-hover:scale-110 transition"
+  32 |         />
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-card.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:13:13.652] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:13:13.652] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:13:13.652] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:13:13.652] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:13:13.652] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:13:13.652] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:13:13.652] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:13:13.652] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:13:13.652] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:13:13.652] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:13:13.652] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:13:13.652] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:13:13.652] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:13:13.652] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:13:13.652] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:13:13.652] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:13:13.652] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:13:13.652] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:13:13.652] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:13:13.652] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:13:13.652] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:13:13.652] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:13:13.652] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:13:13.652] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:13:13.652] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:13:13.652] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:13:13.652] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:13:13.652] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:13:13.652] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:13:13.652] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:13:13.652] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:13:17.452] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:17.790] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:13:17.790] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:13:17.790] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.56.2.41:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.56.2.41:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764712951089}
+[00:13:17.790] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:13:17.790] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:13:17.790] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:13:17.790] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:13:17.790] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:13:17.790] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:13:17.790] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:13:17.790] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:13:17.790] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:13:17.790] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:13:17.790] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:13:17.790] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:13:17.790] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:13:17.791] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:13:17.791] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:13:17.791] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:13:17.791] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:13:17.791] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:13:17.791] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:13:17.791] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:13:17.791] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:13:17.791] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:50.071] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:50.071] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:50.071] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:50.071] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:50.071] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:50.071] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:50.071] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:50.071] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:50.071] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:50.071] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:50.071] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:50.071] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:50.071] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:50.071] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:50.071] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:50.071] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:50.071] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:50.071] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:50.071] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:50.071] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:50.071] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:50.071] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:50.749] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:50.749] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:50.749] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:50.749] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:50.749] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:50.749] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:50.749] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:50.749] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:50.749] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:50.749] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:50.749] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:50.749] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:50.749] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:50.749] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:50.749] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:50.749] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:50.749] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:50.749] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:50.749] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:50.749] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:50.749] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:50.749] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:51.666] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:51.666] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:51.666] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:51.666] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:51.666] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:51.666] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:51.666] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:51.666] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:51.666] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:51.666] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:51.666] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:51.666] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:51.666] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:51.666] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:51.666] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:51.666] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:51.666] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:51.666] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:51.666] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:51.666] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:51.666] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:51.666] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:54.358] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:54.358] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:21:54.358] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:54.358] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:21:54.358] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:54.358] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:21:54.358] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:54.358] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:21:54.358] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:54.358] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:21:54.358] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:54.358] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:21:54.358] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:54.358] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:21:54.358] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:54.359] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:21:54.359] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:54.359] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:21:54.359] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:54.359] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:21:54.359] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:21:54.359] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:22:09.410] Server  LOG      ✓ Compiled in 92ms
+[00:22:09.515] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:22:09.516] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:22:09.516] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:22:09.516] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:22:09.516] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:22:09.516] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:22:09.516] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:22:09.516] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:22:09.516] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:22:09.516] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:22:09.516] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:22:09.516] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:22:09.516] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:22:09.516] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:22:09.516] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:22:09.516] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:22:09.516] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:22:09.516] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:22:09.516] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:22:09.516] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:22:09.516] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:22:09.516] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:27:22.181] Server  LOG      ✓ Compiled in 112ms
+[00:27:23.039] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx:134:7
+Parsing ecmascript source code failed
+  132 |     </div>
+  133 |   )}
+> 134 | </div>
+      |       ^
+
+Expected '</', got '<eof>'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:27:26.858] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:27:26.858] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:27:26.858] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:27:26.858] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:27:26.858] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:27:26.858] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:27:26.858] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:27:26.858] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:27:26.858] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:27:26.858] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:27:26.858] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:27:26.858] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:27:26.858] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:27:26.858] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:27:26.858] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:27:26.858] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:27:26.858] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:27:26.858] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:27:26.858] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:27:26.858] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:27:26.858] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:27:26.858] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:27:26.858] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:27:26.858] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:27:26.858] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:27:26.858] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:27:26.858] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:27:26.858] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:27:26.858] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:27:26.859] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:27:26.859] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:27:26.859] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:27:26.859] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:27:26.859] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:27:26.859] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:27:26.859] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:27:26.859] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:27:26.859] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:27:26.859] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:27:26.859] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:27:26.859] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:27:26.859] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:27:26.859] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:27:26.859] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:27:26.859] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:27:26.859] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:27:26.859] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:27:26.859] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:27:26.859] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:27:26.859] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:27:26.859] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:27:26.859] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:27:26.859] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:27:26.859] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:27:26.859] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:27:26.859] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:27:26.859] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:27:26.859] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:27:26.859] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:31:51.162] Server  LOG      ✓ Compiled in 409ms
+[00:31:51.725] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx:76:53
+Parsing ecmascript source code failed
+  74 |
+  75 |       {/* Comics Grid */}
+> 76 |       <div className="<div className="flex-none w-72">">
+     |                                                     ^^^
+  77 |         {query.isLoading && (
+  78 |           <div className="flex flex-col items-center justify-center py-20">
+  79 |             <Loader className="w-8 h-8 text-purple-400 animate-spin mb-4" />
+
+Expected '</', got 'string literal (>, ">")'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:31:53.007] Server  LOG      ✓ Compiled in 110ms
+[00:31:53.863] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx:76:53
+Parsing ecmascript source code failed
+  74 |
+  75 |       {/* Comics Grid */}
+> 76 |       <div className="<div className="flex-none w-72">
+     |                                                     ^^
+  77 |         {query.isLoading && (
+  78 |           <div className="flex flex-col items-center justify-center py-20">
+  79 |             <Loader className="w-8 h-8 text-purple-400 animate-spin mb-4" />
 
 Unterminated string constant
-[00:01:45.787] Server  LOG      ✓ Compiled in 413ms
-[00:01:45.898] Browser ERROR   ./Proyecto-TransformarComic/app/layout.tsx:14:14
-Ecmascript file had an error
-  12 | const _geistMono = Geist_Mono({ subsets: ["latin"] });
-  13 |
-> 14 | export const metadata: Metadata = {
-     |              ^^^^^^^^
-  15 |   title: 'ComicVerse - Leer Cómics en Vertical',
-  16 |   description: 'Plataforma de lectura de cómics optimizada para móvil con formato vertical',
-  17 |   viewport: {
-
-You are attempting to export "metadata" from a component marked with "use client", which is disallowed. Either remove the export, or the "use client" directive. Read more: https://nextjs.org/docs/app/api-reference/directives/use-client
 
 Import traces:
   Client Component Browser:
-    ./Proyecto-TransformarComic/app/layout.tsx [Client Component Browser]
-    ./Proyecto-TransformarComic/app/layout.tsx [Server Component]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
 
   Client Component SSR:
-    ./Proyecto-TransformarComic/app/layout.tsx [Client Component SSR]
-    ./Proyecto-TransformarComic/app/layout.tsx [Server Component]
-[00:01:46.905] Browser ERROR   ./Proyecto-TransformarComic/app/layout.tsx:14:14
-Ecmascript file had an error
-  12 | const _geistMono = Geist_Mono({ subsets: ["latin"] });
-  13 |
-> 14 | export const metadata: Metadata = {
-     |              ^^^^^^^^
-  15 |   title: 'ComicVerse - Leer Cómics en Vertical',
-  16 |   description: 'Plataforma de lectura de cómics optimizada para móvil con formato vertical',
-  17 |   viewport: {
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:31:57.810] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx:76:49
+Parsing ecmascript source code failed
+  74 |
+  75 |       {/* Comics Grid */}
+> 76 |       <div className="<div className="flex-none ">
+     |                                                 ^^
+  77 |         {query.isLoading && (
+  78 |           <div className="flex flex-col items-center justify-center py-20">
+  79 |             <Loader className="w-8 h-8 text-purple-400 animate-spin mb-4" />
 
-You are attempting to export "metadata" from a component marked with "use client", which is disallowed. Either remove the export, or the "use client" directive. Read more: https://nextjs.org/docs/app/api-reference/directives/use-client
+Unterminated string constant
 
 Import traces:
   Client Component Browser:
-    ./Proyecto-TransformarComic/app/layout.tsx [Client Component Browser]
-    ./Proyecto-TransformarComic/app/layout.tsx [Server Component]
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
 
   Client Component SSR:
-    ./Proyecto-TransformarComic/app/layout.tsx [Client Component SSR]
-    ./Proyecto-TransformarComic/app/layout.tsx [Server Component]
-[00:02:00.024] Server  LOG      ✓ Compiled in 183ms
-[00:02:01.171] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:01.529] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:01.530] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:02:01.530] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764611209857}
-[00:03:46.618] Server  LOG      ✓ Compiled in 93ms
-[00:04:40.212] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:40.415] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:04:40.415] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:04:40.415] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764611368743}
-[00:04:43.912] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:04:44.107] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:04:44.107] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:04:44.107] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764611372435}
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:32:03.070] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:03.070] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:03.070] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:03.070] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:03.070] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:03.070] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:03.070] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:03.070] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:03.070] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:03.070] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:03.070] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:03.071] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:03.071] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:03.071] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:03.071] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:03.071] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:03.071] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:03.071] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:03.071] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:03.071] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:03.071] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:03.071] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:03.071] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:03.071] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:03.071] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:03.071] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:03.071] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:03.071] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:03.071] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:03.071] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:03.071] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:03.071] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:03.071] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:03.071] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:03.071] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:03.072] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:03.072] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:03.072] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:03.072] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:03.072] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:03.072] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:03.072] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:03.072] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:03.072] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:03.072] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:03.072] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:03.072] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:03.072] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:03.072] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:03.072] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:03.072] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:03.072] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:03.072] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:03.072] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:03.072] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:03.072] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:03.072] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:03.072] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:03.072] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:03.072] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:03.073] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:03.073] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:03.073] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:03.073] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:03.073] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:03.073] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:22.859] Server  LOG      ✓ Compiled in 94ms
+[00:32:23.734] Browser ERROR   ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx:76:65
+Parsing ecmascript source code failed
+  74 |
+  75 |       {/* Comics Grid */}
+> 76 |       <div className="<div className="flex gap-6 overflow-x-auto">">
+     |                                                                 ^^^
+  77 |         {query.isLoading && (
+  78 |           <div className="flex flex-col items-center justify-center py-20">
+  79 |             <Loader className="w-8 h-8 text-purple-400 animate-spin mb-4" />
+
+Expected '</', got 'string literal (>, ">")'
+
+Import traces:
+  Client Component Browser:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component Browser]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documentos/Proyecto-TransformarComic/components/comic-browser.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Client Component SSR]
+    ./Documentos/Proyecto-TransformarComic/app/page.tsx [Server Component]
+[00:32:25.783] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.783] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.783] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.783] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.783] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.783] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.783] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.783] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.783] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.783] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.783] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.783] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.783] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.783] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.783] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.783] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.783] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.783] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.783] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.783] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.783] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.784] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.784] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.784] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.784] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.784] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.784] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.784] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.784] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.784] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.784] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.784] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.784] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.784] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.784] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.784] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.784] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.784] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.784] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.784] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.784] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.784] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.784] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.784] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.784] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.784] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:25.784] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.785] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:32:25.785] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.785] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:32:25.785] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.785] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:32:25.785] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.785] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:32:25.785] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.785] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:32:25.785] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.785] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:32:25.785] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.785] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:32:25.785] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.785] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:32:25.785] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.785] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:32:25.785] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.785] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:32:25.785] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:32:25.785] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:09.094] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:09.349] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:33:09.349] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:33:09.349] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.56.2.41:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.56.2.41:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764714142739}
+[00:33:09.349] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:09.349] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:09.349] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:09.349] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:09.349] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:09.349] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:09.349] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:09.349] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:09.349] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:09.349] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:09.350] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:09.350] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:09.350] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:09.350] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:09.350] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:09.350] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:09.350] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:09.350] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:09.350] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:09.350] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:09.350] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:09.350] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:11.607] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:11.607] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:11.607] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:11.607] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:11.607] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:11.607] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:11.607] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:11.607] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:11.607] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:11.607] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:11.607] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:11.607] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:11.607] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:11.608] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:11.608] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:11.608] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:11.608] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:11.608] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:11.608] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:11.608] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:11.608] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:11.608] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:12.566] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:12.566] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:12.566] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:12.566] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:12.566] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:12.566] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:12.566] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:12.566] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:12.566] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:12.566] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:12.566] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:12.566] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:12.566] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:12.566] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:12.566] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:12.566] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:12.566] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:12.566] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:12.566] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:12.566] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:12.566] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:12.566] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:13.291] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:13.291] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:13.291] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:13.291] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:13.291] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:13.291] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:13.291] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:13.291] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:13.291] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:13.291] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:13.291] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:13.291] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:13.291] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:13.291] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:13.291] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:13.291] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:13.291] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:13.291] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:13.292] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:13.292] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:13.292] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:13.292] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:13.933] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:13.933] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:33:13.933] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:13.933] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:33:13.933] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:13.933] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:33:13.933] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:13.933] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:33:13.933] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:13.933] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:33:13.933] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:13.933] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:33:13.933] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:13.933] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:33:13.933] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:13.933] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:33:13.933] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:13.933] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:33:13.933] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:13.933] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:33:13.933] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:33:13.933] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:15.084] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:15.084] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:15.084] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:15.084] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:19.297] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:19.297] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:19.297] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:19.297] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:20.490] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:20.490] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:20.490] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:20.490] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:21.299] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:21.299] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:21.299] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:21.299] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:22.041] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:22.041] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:22.041] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:22.041] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:24.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:24.291] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:34:24.291] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:34:24.291] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.56.2.41:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.56.2.41:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764714217670}
+[00:34:24.291] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:24.291] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:24.291] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:24.291] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:24.291] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:24.291] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:24.291] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:24.291] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:24.291] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:24.291] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:24.291] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:24.291] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:24.291] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:24.291] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:24.291] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:24.291] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:24.291] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:24.291] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:24.291] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:24.291] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:24.291] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:24.291] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:27.553] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:27.553] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:27.554] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:27.554] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:27.554] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:27.554] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:27.554] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:27.554] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:27.554] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:27.554] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:27.554] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:27.554] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:27.554] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:27.554] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:27.554] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:27.554] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:27.554] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:27.554] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:27.554] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:27.554] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:27.554] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:27.554] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:28.726] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:28.726] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:28.726] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:28.726] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:28.726] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:28.726] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:28.726] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:28.726] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:28.726] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:28.726] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:28.726] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:28.726] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:28.727] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:28.727] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:28.727] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:28.727] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:28.727] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:28.727] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:28.727] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:28.727] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:28.727] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:28.727] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:29.465] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:29.465] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:29.465] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:29.465] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:29.465] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:29.466] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:29.466] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:29.466] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:29.466] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:29.466] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:29.466] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:29.466] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:29.466] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:29.466] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:29.466] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:29.466] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:29.466] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:29.466] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:29.466] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:29.466] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:29.466] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:29.466] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:30.814] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:30.814] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:34:30.814] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:30.814] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:34:30.814] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:30.814] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:34:30.814] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:30.814] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:34:30.814] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:30.814] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:34:30.814] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:30.814] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:34:30.814] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:30.815] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:34:30.815] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:30.815] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:34:30.815] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:30.815] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:34:30.815] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:30.815] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:34:30.815] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:34:30.815] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:36:28.230] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:36:28.230] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:36:28.230] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:36:28.230] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:36:28.230] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:36:28.230] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:46:35.295] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:46:35.295] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:46:35.295] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:46:35.295] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:46:35.295] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:46:35.295] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:46:38.011] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:38.342] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:46:38.343] Browser LOG     {"author":"Robert Kirkman","genre":"Horror","id":"6hwejucwi1sx2vp","likes":0,"title":"The Walking Dead","views":0}
+[00:46:38.343] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:46:38.343] Browser LOG     {"author":"Art Spiegelman","genre":"Drama","id":"yx7vdiwxasw1hxl","likes":0,"title":"Maus","views":0}
+[00:46:38.343] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:46:38.343] Browser LOG     {"author":"Isabael Allende","genre":"Drama","id":"vc4z9srr9lj134t","likes":0,"title":"La Casa de los Espíritus","views":0}
+[00:46:38.343] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:46:38.343] Browser LOG     {"author":"Alan Moore","genre":"Drama","id":"cvxcezdxqs93dhg","likes":0,"title":"V de Vendetta","views":0}
+[00:46:38.343] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:46:38.343] Browser LOG     {"author":"Marjane Satrapi","genre":"Drama","id":"tmcuhwz0ii2ayke","likes":0,"title":"Persépolis","views":0}
+[00:46:38.343] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:46:38.343] Browser LOG     {"author":"Quino","genre":"Comedy","id":"vquypm3bj1tp354","likes":0,"title":"Mafalda","views":0}
+[00:46:38.343] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:46:38.343] Browser LOG     {"author":"Neil Gaiman","genre":"Fantasy","id":"f4v4yyih48c38x0","likes":0,"title":"Sandman","views":0}
+[00:46:38.343] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:46:38.343] Browser LOG     {"author":"Alan Moore","genre":"Fantasy","id":"fi0dik5k6f43qj4","likes":0,"title":"Watchmen","views":0}
+[00:46:38.343] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:46:38.343] Browser LOG     {"author":"Brian K. Vaughan","genre":"Sci-Fi","id":"ti9n92yonwwwgsg","likes":0,"title":"Saga","views":0}
+[00:46:38.343] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:46:38.343] Browser LOG     {"author":"Katsuhiro Otomo","genre":"Sci-Fi","id":"vadf01mdasurswr","likes":0,"title":"Akira","views":0}
+[00:46:38.343] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:46:38.343] Browser LOG     {"author":"Hector German Oesterheld","genre":"Sci-Fi","id":"jii2fj249tgx3xd","likes":0,"title":"El eternauta","views":0}
+[00:46:38.343] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:46:38.343] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:46:38.343] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.56.2.41:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.56.2.41:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764714951772}

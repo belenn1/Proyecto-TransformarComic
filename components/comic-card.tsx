@@ -17,6 +17,7 @@ interface ComicCardProps {
 }
 
 export default function ComicCard({ comic, onClick }: ComicCardProps) {
+  console.log(comic)
   return (
     <div
       onClick={onClick}

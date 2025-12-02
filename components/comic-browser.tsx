@@ -19,7 +19,7 @@ export default function ComicBrowser({
 }) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedGenre, setSelectedGenre] = useState("All");
- 
+
   const query = useQuery({
     queryKey: ["comics"],
     queryFn: async () => {
@@ -27,10 +27,10 @@ export default function ComicBrowser({
         filter: selectedGenre === "All" ? "" : `genre = "${selectedGenre}"`,
         sort: "-created",
       });
-
       return records;
     },
   });
+  
   return (
     <div className="min-h-screen pb-20">
       {/* Header */}
@@ -79,8 +79,8 @@ export default function ComicBrowser({
             <Loader className="w-8 h-8 text-purple-400 animate-spin mb-4" />
             <p className="text-gray-400">Cargando cómics...</p>
           </div>
-        ) }
-        { query.data?.length || 0 > 0 && (
+        )}
+        {query.isFetched && (
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
             {query.data?.map((comic) => (
               <ComicCard
@@ -92,14 +92,16 @@ export default function ComicBrowser({
                   cover: comic.pageImage,
                   likes: 0,
                   views: 0,
-                  genre: comic.genre
+                  genre: comic.genre,
                 }}
+
+                
                 onClick={() => onSelectComic(comic)}
               />
             ))}
           </div>
-        ) }
-        { query.data?.length === 0 &&(
+        )}
+        {query.data?.length === 0 && (
           <div className="flex flex-col items-center justify-center py-20 text-center">
             <Grid className="w-16 h-16 text-gray-600 mb-4" />
             <h2 className="text-xl font-semibold text-gray-400 mb-2">

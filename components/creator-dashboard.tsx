@@ -58,9 +58,9 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-purple-900 via-black to-black pb-20">
+    <div className="min-h-screen bg-linear-to-b from-purple-900 via-black to-black pb-20">
       {/* Header */}
-      <div className="sticky top-0 z-40 bg-gradient-to-b from-purple-900 to-black border-b border-purple-500/20 p-4">
+      <div className="sticky top-0 z-40 bg-linear-to-b from-purple-900 to-black border-b border-purple-500/20 p-4">
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <div className="flex items-center gap-4">
             <button
@@ -77,7 +77,7 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
 
           <button
             onClick={() => setShowUploader(true)}
-            className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:opacity-90 transition"
+            className="flex items-center gap-2 px-4 py-2 bg-linear-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:opacity-90 transition"
           >
             <Plus className="w-5 h-5" />
             <span>Nuevo Cómic</span>
@@ -96,15 +96,15 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
           <>
             {/* Stats */}
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
-              <div className="bg-gradient-to-br from-purple-900/50 to-purple-900/20 border border-purple-500/30 rounded-lg p-4">
+              <div className="bg-linear-to-br from-purple-900/50 to-purple-900/20 border border-purple-500/30 rounded-lg p-4">
                 <p className="text-gray-400 text-sm mb-2">Cómics Publicados</p>
                 <p className="text-2xl font-bold text-purple-400">{comics.length}</p>
               </div>
-              <div className="bg-gradient-to-br from-blue-900/50 to-blue-900/20 border border-blue-500/30 rounded-lg p-4">
+              <div className="bg-linear-to-br from-blue-900/50 to-blue-900/20 border border-blue-500/30 rounded-lg p-4">
                 <p className="text-gray-400 text-sm mb-2">Visualizaciones Totales</p>
                 <p className="text-2xl font-bold text-blue-400">{comics.reduce((sum, c) => sum + c.views, 0)}</p>
               </div>
-              <div className="bg-gradient-to-br from-pink-900/50 to-pink-900/20 border border-pink-500/30 rounded-lg p-4">
+              <div className="bg-linear-to-br from-pink-900/50 to-pink-900/20 border border-pink-500/30 rounded-lg p-4">
                 <p className="text-gray-400 text-sm mb-2">Likes Totales</p>
                 <p className="text-2xl font-bold text-pink-400">{comics.reduce((sum, c) => sum + c.likes, 0)}</p>
               </div>
@@ -123,7 +123,7 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
                       {/* Comic Info */}
                       <div className="flex-1">
                         <div className="flex items-start gap-3">
-                          <div className="w-16 h-20 bg-gradient-to-br from-purple-500/20 to-pink-500/20 rounded-lg flex items-center justify-center flex-shrink-0">
+                          <div className="w-16 h-20 bg-linear-to-br from-purple-500/20 to-pink-500/20 rounded-lg flex items-center justify-center flex-shrink-0">
                             <Upload className="w-6 h-6 text-gray-500" />
                           </div>
                           <div className="flex-1">
