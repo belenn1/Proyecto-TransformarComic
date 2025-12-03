@@ -16,6 +16,7 @@ interface ComicCardProps {
   onClick: () => void;
 }
 
+const api_url_base = "http://127.0.0.1:8090/api" 
 export default function ComicCard({ comic, onClick }: ComicCardProps) {
   console.log(comic)
   return (
@@ -26,7 +27,7 @@ export default function ComicCard({ comic, onClick }: ComicCardProps) {
       {/* Cover Image */}
       <div className="relative w-full aspect-[3/4] bg-gradient-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
         <img
-          src={comic.cover || `/placeholder.svg?height=400&width=300&query=${comic.title}+cover`}
+          src={`${api_url_base}/files/comics/${comic.id}/${comic.cover}`}
           alt={comic.title}
           className="w-full h-full object-cover group-hover:scale-110 transition"
         />

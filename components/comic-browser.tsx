@@ -23,14 +23,15 @@ export default function ComicBrowser({
   const query = useQuery({
     queryKey: ["comics"],
     queryFn: async () => {
-      const records = await pb.collection("comics").getFullList({
+      const comics = await pb.collection("comics").getFullList({
         filter: selectedGenre === "All" ? "" : `genre = "${selectedGenre}"`,
         sort: "-created",
       });
-      return records;
+
+      return comics
     },
   });
-  
+
   return (
     <div className="min-h-screen pb-20">
       {/* Header */}
@@ -89,13 +90,11 @@ export default function ComicBrowser({
                   id: comic.id,
                   title: comic.title,
                   author: comic.author,
-                  cover: comic.pageImage,
+                  cover: comic.cover,
                   likes: 0,
                   views: 0,
                   genre: comic.genre,
                 }}
-
-                
                 onClick={() => onSelectComic(comic)}
               />
             ))}
