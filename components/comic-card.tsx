@@ -25,7 +25,7 @@ export default function ComicCard({ comic, onClick }: ComicCardProps) {
       className="group cursor-pointer rounded-lg overflow-hidden bg-gray-900 hover:bg-gray-800 transition transform hover:scale-105 hover:shadow-xl"
     >
       {/* Cover Image */}
-      <div className="relative w-full aspect-[3/4] bg-gradient-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
+      <div className="relative w-full aspect-[3/4] bg-linear-to-br from-purple-500/20 to-pink-500/20 overflow-hidden">
         <img
           src={`${api_url_base}/files/comics/${comic.id}/${comic.cover}`}
           alt={comic.title}
@@ -36,7 +36,7 @@ export default function ComicCard({ comic, onClick }: ComicCardProps) {
       </div>
 
       {/* Info */}
-      <div className="p-3 bg-gradient-to-t from-black to-transparent">
+      <div className="p-3 bg-linear-to-t from-black to-transparent">
         <h3 className="font-bold text-white text-sm truncate group-hover:text-purple-300 transition">
           {comic.title}
         </h3>

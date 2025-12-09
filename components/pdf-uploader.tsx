@@ -70,7 +70,7 @@ export default function PDFUploader({ onUpload }: PDFUploaderProps) {
           Estamos convirtiendo <strong>{title}</strong> a formato vertical optimizado para celular. Esto puede tomar unos momentos...
         </p>
         <div className="w-full bg-gray-800 rounded-full h-2 max-w-md mx-auto overflow-hidden">
-          <div className="bg-gradient-to-r from-purple-500 to-pink-500 h-full animate-pulse" style={{
+          <div className="bg-linear-to-r from-purple-500 to-pink-500 h-full animate-pulse" style={{
             animation: 'progress 2s ease-in-out infinite'
           }} />
         </div>
@@ -100,7 +100,7 @@ export default function PDFUploader({ onUpload }: PDFUploaderProps) {
                   </div>
 
                   {/* Comic Viewer */}
-                  <div className="flex-1 flex flex-col items-center justify-center p-4 bg-gradient-to-b from-purple-900 to-black">
+                  <div className="flex-1 flex flex-col items-center justify-center p-4 bg-linear-to-b from-purple-900 to-black">
                     <div className="text-center">
                       <FileText className="w-12 h-12 text-purple-400 mx-auto mb-2" />
                       <p className="text-white font-bold text-sm">{title}</p>
@@ -133,7 +133,7 @@ export default function PDFUploader({ onUpload }: PDFUploaderProps) {
           </button>
           <button
             onClick={handleUpload}
-            className="flex-1 px-4 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:opacity-90 transition font-semibold"
+            className="flex-1 px-4 py-3 bg-linear-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:opacity-90 transition font-semibold"
           >
             Publicar Cómic
           </button>
@@ -204,7 +204,7 @@ export default function PDFUploader({ onUpload }: PDFUploaderProps) {
 
           {/* Info Box */}
           <div className="bg-blue-900/20 border border-blue-500/30 rounded-lg p-4 flex gap-3">
-            <AlertCircle className="w-5 h-5 text-blue-400 flex-shrink-0 mt-0.5" />
+            <AlertCircle className="w-5 h-5 text-blue-400 flex-shrink: 0 mt-0.5" />
             <div>
               <p className="text-blue-300 text-sm font-semibold">Conversión automática</p>
               <p className="text-blue-200/70 text-xs">
@@ -226,7 +226,7 @@ export default function PDFUploader({ onUpload }: PDFUploaderProps) {
             </button>
             <button
               onClick={() => setPreview(true)}
-              className="flex-1 px-4 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:opacity-90 transition font-semibold"
+              className="flex-1 px-4 py-3 bg-linear-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:opacity-90 transition font-semibold"
             >
               Ver Vista Previa
             </button>

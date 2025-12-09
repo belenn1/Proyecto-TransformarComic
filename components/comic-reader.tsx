@@ -43,7 +43,7 @@ export default function ComicReader({ comic, onBack }: ComicReaderProps) {
   return (
     <div className="fixed inset-0 bg-black z-50 flex flex-col">
       {/* Header */}
-      <div className="bg-gradient-to-b from-black to-transparent p-4 flex items-center justify-between">
+      <div className="bg-linear-to-b from-black to-transparent p-4 flex items-center justify-between">
         <button
           onClick={onBack}
           className="flex items-center gap-2 text-white hover:text-purple-400 transition"
@@ -104,12 +104,12 @@ export default function ComicReader({ comic, onBack }: ComicReaderProps) {
       </div>
 
       {/* Footer */}
-      <div className="bg-gradient-to-t from-black to-transparent p-4">
+      <div className="bg-linear-to-t from-black to-transparent p-4">
         <div className="max-w-2xl mx-auto">
           {/* Progress Bar */}
           <div className="bg-gray-800 rounded-full h-1 mb-3 overflow-hidden">
             <div
-              className="bg-gradient-to-r from-purple-500 to-pink-500 h-full transition-all"
+              className="bg-linear-to-r from-purple-500 to-pink-500 h-full transition-all"
               style={{ width: `${((currentPage + 1) / pageImages.length) * 100}%` }}
             />
           </div>

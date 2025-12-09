@@ -8,7 +8,7 @@ import GenreFilter from "./genre-filter";
 import { getPublishedComics, searchComics } from "@/lib/storage";
 import { useQuery } from "@tanstack/react-query";
 
-const GENRES = ["All", "Sci-Fi", "Fantasy", "Comedy", "Drama", "Horror"];
+const GENRES = ["Todos", "Sci-Fi", "Fantasia", "Comedia", "Drama", "Horror"];
 
 export default function ComicBrowser({
   onSelectComic,
@@ -18,14 +18,17 @@ export default function ComicBrowser({
   onCreatorClick: () => void;
 }) {
   const [searchQuery, setSearchQuery] = useState("");
-  const [selectedGenre, setSelectedGenre] = useState("All");
+  const [selectedGenre, setSelectedGenre] = useState("Todos");
 
   const query = useQuery({
-    queryKey: ["comics"],
+    queryKey: ["comics", selectedGenre, searchQuery],
     queryFn: async () => {
       const comics = await pb.collection("comics").getFullList({
-        filter: selectedGenre === "All" ? "" : `genre = "${selectedGenre}"`,
-        sort: "-created",
+        // filter: selectedGenre === "Todos" ? "" : `genre = "${selectedGenre}"`,
+        // sort: "-created",
+        filter: selectedGenre === "Todos" ? 
+        (searchQuery ? `title ~ "${searchQuery}" || author ~ "${searchQuery}"` : "") : 
+        `genre = "${selectedGenre}" ${searchQuery ? `&& (title ~ "${searchQuery}" || author ~ "${searchQuery}")` : ""}`,
       });
 
       return comics
