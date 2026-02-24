@@ -7,3 +7,12 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 .next/
+pocketbase_0.34.0_linux_amd64/pb_data/
+*.db
+*.db-shm
+*.db-wal
+bash: .next/: Es un directorio
+bash: pocketbase_0.34.0_linux_amd64/pb_data/: Es un directorio
+*.db: no se encontró la orden
+*.db-shm: no se encontró la orden
+*.db-wal: no se encontró la orden

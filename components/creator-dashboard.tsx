@@ -182,7 +182,7 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
                 ))
               ) : (
                 <div className="text-center py-12">
-                  <p className="text-gray-400">No tienes cómics aún. ¡Crea uno para comenzar!</p>
+                  <p className="text-gray-400">No tienes cómics aún. ¡Crea uno para empezar!</p>
                 </div>
               )}
             </div>
