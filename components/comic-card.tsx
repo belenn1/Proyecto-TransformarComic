@@ -31,7 +31,7 @@ export default function ComicCard({ comic, onClick }: ComicCardProps) {
           alt={comic.title}
           className="w-full h-full object-cover group-hover:scale-110 transition"
         />
-        {/* Overlay */}
+        {/* fondo */}
         <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition" />
       </div>
 
@@ -46,11 +46,11 @@ export default function ComicCard({ comic, onClick }: ComicCardProps) {
         <div className="flex gap-3 mt-2 text-xs text-gray-300">
           <div className="flex items-center gap-1">
             <Heart className="w-3 h-3 text-pink-500" />
-            <span>{(comic.likes / 1000).toFixed(1)}k</span>
+            <span>{(comic.likes).toFixed(1)}k</span>
           </div>
           <div className="flex items-center gap-1">
             <Eye className="w-3 h-3 text-blue-400" />
-            <span>{(comic.views / 1000).toFixed(1)}k</span>
+            <span>{(comic.views).toFixed(1)}k</span>
           </div>
         </div>
       </div>

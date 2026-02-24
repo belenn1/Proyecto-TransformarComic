@@ -8,7 +8,7 @@ import GenreFilter from "./genre-filter";
 import { getPublishedComics, searchComics } from "@/lib/storage";
 import { useQuery } from "@tanstack/react-query";
 
-const GENRES = ["Todos", "Sci-Fi", "Fantasia", "Comedia", "Drama", "Horror"];
+const GENRES = ["Todos", "Sci-Fi", "Fantasía", "Comedia", "Drama", "Horror"];
 
 export default function ComicBrowser({
   onSelectComic,
@@ -45,7 +45,7 @@ export default function ComicBrowser({
               <div className="w-10 h-10 rounded-lg bg-linear-to-br from-purple-500 to-pink-500 flex items-center justify-center">
                 <span className="text-white font-bold">CV</span>
               </div>
-              <h1 className="text-3xl font-bold text-white">ComicVerse</h1>
+              <h1 className="text-3xl font-bold text-white">Comics</h1>
             </div>
             <button
               onClick={onCreatorClick}
@@ -94,8 +94,8 @@ export default function ComicBrowser({
                   title: comic.title,
                   author: comic.author,
                   cover: comic.cover,
-                  likes: 0,
-                  views: 0,
+                  likes: comic.likes,
+                  views: comic.views,
                   genre: comic.genre,
                 }}
                 onClick={() => onSelectComic(comic)}
