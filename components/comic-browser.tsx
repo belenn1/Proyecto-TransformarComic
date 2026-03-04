@@ -97,6 +97,7 @@ export default function ComicBrowser({
                   likes: comic.likes,
                   views: comic.views,
                   genre: comic.genre,
+              
                 }}
                 onClick={() => onSelectComic(comic)}
               />

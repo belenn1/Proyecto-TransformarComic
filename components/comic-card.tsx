@@ -12,11 +12,12 @@ interface ComicCardProps {
     likes: number;
     views: number;
     genre: string;
+  
   };
   onClick: () => void;
 }
 
-const api_url_base = "http://127.0.0.1:8090/api" 
+const api_url_base = "http://127.0.0.1:8090/api"
 export default function ComicCard({ comic, onClick }: ComicCardProps) {
   console.log(comic)
   return (

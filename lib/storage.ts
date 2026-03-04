@@ -12,6 +12,7 @@ interface Comic {
   pdf?: File;
   cover?: string;
   pageImages?: string[];
+  pdfPath: string;
 }
 
 interface UserLike {

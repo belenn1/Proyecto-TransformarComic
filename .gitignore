@@ -18,3 +18,4 @@ bash: pocketbase_0.34.0_linux_amd64/pb_data/: Es un directorio
 *.db-wal: no se encontró la orden
 
 /api-comics/venv/
+/api-comics/uploads

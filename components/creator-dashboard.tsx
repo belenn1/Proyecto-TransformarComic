@@ -26,6 +26,7 @@ interface CreatedComic {
   autoPublish: boolean;
   views: number;
   likes: number;
+  pdfPath: string;
 }
 
 export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
@@ -73,6 +74,7 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
       pdfPath: uploadResult.filename, // guardamos nombre real
     });
 
+    console.log(newComic)
     setComics([...comics, newComic as CreatedComic]);
     setShowUploader(false);
 
