@@ -31,6 +31,7 @@ interface CreatedComic {
 export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
   const [showUploader, setShowUploader] = useState(false);
   const [selectedComicId, setSelectedComicId] = useState<string | null>(null);
+  const [comics, setComics] = useState<any>([])
 
   const query = useQuery({
     queryKey: ["comics-dashboard"],
@@ -41,24 +42,51 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
     },
   });
 
-  const handleComicUpload = (comicData: any) => {
-  //   const newComic = addComic({
-  //     title: comicData.title,
-  //     author: "Creador",
-  //     genre: comicData.genre,
-  //     pages: comicData.pages,
-  //     uploadDate: new Date().toISOString().split("T")[0],
-  //     autoPublish: false,
-  //     views: 0,
-  //     likes: 0,
-  //   });
-  //   setComics([...comics, newComic as CreatedComic]);
-  //   setShowUploader(false);
-  };
+  const handleComicUpload = async (comicData: any) => {
+  try {
+    // Subir PDF a FastAPI
+    const formData = new FormData();
+    formData.append("file", comicData.file);
+
+    const uploadRes = await fetch("http://localhost:8000/upload-pdf", {
+      method: "POST",
+      body: formData,
+    });
+
+    const uploadResult = await uploadRes.json();
+
+    if (!uploadRes.ok) {
+      alert(uploadResult.error || "Error al subir PDF");
+      return;
+    }
+
+    // Usar TU modelo como ya lo hacías
+    const newComic = addComic({
+      title: comicData.title,
+      author: "Creador",
+      genre: comicData.genre,
+      pages: comicData.pages,
+      uploadDate: new Date().toISOString().split("T")[0],
+      autoPublish: false,
+      views: 0,
+      likes: 0,
+      pdfPath: uploadResult.filename, // guardamos nombre real
+    });
+
+    setComics([...comics, newComic as CreatedComic]);
+    setShowUploader(false);
+
+  } catch (error) {
+    console.error(error);
+    alert("Error al subir el cómic");
+  }
+};
+
+
 
   const handleDeleteComic = (id: string) => {
-  //   deleteComic(id);
-  //   setComics(comics.filter((c) => c.id !== id));
+    deleteComic(id);
+    setComics(comics.filter((c : any ) => c.id !== id));
   };
 
   const handleSchedulePublish = (
@@ -66,12 +94,12 @@ export default function CreatorDashboard({ onBack }: { onBack: () => void }) {
     date: string,
     autoPublish: boolean,
   ) => {
-  //   setComics(
-  //     comics.map((c) =>
-  //       c.id === id ? { ...c, scheduledDate: date, autoPublish } : c,
-  //     ),
-  //   );
-  //   setSelectedComicId(null);
+    setComics(
+      comics.map((c : any) =>
+        c.id === id ? { ...c, scheduledDate: date, autoPublish } : c,
+      ),
+    );
+    setSelectedComicId(null);
   };
 
   return (

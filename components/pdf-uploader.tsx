@@ -31,33 +31,39 @@ export default function PDFUploader({ onUpload }: PDFUploaderProps) {
     }
   };
 
-  const handleUpload = () => {
-    if (!file || !title) {
-      alert('Por favor completa todos los campos');
-      return;
-    }
+ const handleUpload = () => {
+  if (!file || !title) {
+    alert('Por favor completa todos los campos');
+    return;
+  }
 
-    setIsProcessing(true);
-    
-    // Simulate processing time based on file size
-    const processingTime = Math.min(3000 + (file.size / 1024 / 1024) * 500, 10000);
-    
-    setTimeout(() => {
-      const pageCount = Math.floor(Math.random() * 150) + 30;
-      onUpload({
-        title,
-        genre,
-        pages: pageCount,
-        file
-      });
+  setIsProcessing(true);
 
-      // Reset form
-      setFile(null);
-      setTitle('');
-      setGenre('Fantasy');
-      setIsProcessing(false);
-    }, processingTime);
-  };
+  // Simulamos procesamiento visual solamente
+  const processingTime = Math.min(
+    2000 + (file.size / 1024 / 1024) * 300,
+    5000
+  );
+
+  setTimeout(() => {
+    const pageCount = Math.floor(Math.random() * 150) + 30;
+
+    // Esto ya lo consume CreatorDashboard
+    onUpload({
+      title,
+      genre,
+      pages: pageCount,
+      file
+    });
+
+    // Reset
+    setFile(null);
+    setTitle('');
+    setGenre('Fantasy');
+    setPreview(false);
+    setIsProcessing(false);
+  }, processingTime);
+};
 
   if (isProcessing) {
     return (
